@@ -25,5 +25,6 @@
         <module>sitemap</module>
         <module>lunr</module>
         <module>diagram</module>
+        <module>rss</module>
     </modules>
 </project>
